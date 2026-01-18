@@ -116,6 +116,6 @@ ii. Reassuring progress
 iii. Providing a new realistic delivery time
 
 Never heard about AirDrops? See this;
-https://bingx.com/en/learn/article/what-is-airdrop-in-web3
+https://www.blockchain-council.org/cryptocurrency/what-is-crypto-airdrop/
 
 Post your responses in Discord.
